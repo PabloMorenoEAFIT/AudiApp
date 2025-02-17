@@ -8,7 +8,7 @@ This document outlines the coding standards, project structure, and best practic
 
 Organize your Django project in a modular and clear structure. Example:
 
-
+```
 mi_proyecto/
 ├── config/
 │ ├── settings/
@@ -28,7 +28,7 @@ mi_proyecto/
 │ ├── base.txt
 │ ├── local.txt
 │ ├── production.txt
-
+```
 
 - **`config/`**: Contains project configuration, split by environment (base, local, production).
 - **`apps/`**: Each project functionality should be in a separate app (e.g., `usuarios`, `blog`).
