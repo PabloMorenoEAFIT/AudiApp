@@ -1,8 +1,8 @@
 # AudiApp
-AudiApp is a product created for Training Corporation SAS by
+AudiApp is a product created for Training Corporation SAS by:
 
-Miguel Ángel Martínez
-Simón Botero
-Juan Sebastián Camacho
-Pablo Moreno
+- Miguel Ángel Martínez
+- Simón Botero
+- Juan Sebastián Camacho
+- Pablo Moreno
 
