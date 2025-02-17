@@ -2,7 +2,6 @@
 
 This document outlines the coding standards, project structure, and best practices for Django projects. Follow these rules to ensure clean, maintainable, and scalable code.
 
----
 
 ## 1. Project Structure
 
@@ -34,7 +33,6 @@ mi_proyecto/
 - **`apps/`**: Each project functionality should be in a separate app (e.g., `usuarios`, `blog`).
 - **`requirements/`**: Split dependencies by environment.
 
----
 
 ## 2. Naming Conventions
 
