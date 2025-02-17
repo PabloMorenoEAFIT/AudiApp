@@ -152,7 +152,7 @@ mi_proyecto/
 - Use clear and descriptive commit messages.
 - Follow the Conventional Commits standard:
 ```bash
-  feat: Add user registration functionality
+feat: Add user registration functionality
 fix: Fix tax calculation bug
 docs: Update project documentation
   ```
