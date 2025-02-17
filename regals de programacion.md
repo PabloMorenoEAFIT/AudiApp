@@ -7,6 +7,8 @@ This document outlines the coding standards, project structure, and best practic
 ## 1. Project Structure
 
 Organize your Django project in a modular and clear structure. Example:
+
+
 mi_proyecto/
 ├── config/
 │ ├── settings/
