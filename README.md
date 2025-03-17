@@ -6,3 +6,5 @@ AudiApp is a product created for Training Corporation SAS by:
 - Juan Sebastián Camacho
 - Pablo Moreno
 
+# Wiki del proyecto
+https://github.com/PabloMorenoEAFIT/AudiApp/wiki
